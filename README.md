@@ -24,7 +24,7 @@ To use the survey form:
 
 ## Contributors
 
-- [Bhavesh Kumar](https://github.com/thebhaavesh007) -[@thebhavesh007] 
+- [Subhankar Saha]
 
 ## License
 
